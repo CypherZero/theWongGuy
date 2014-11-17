@@ -22,8 +22,8 @@ We'll try to do something new and use NodeJS, Express, and some fancy CSS to pro
 
 ## Sprints 
 - 1
-    + setup project in NodeJS and Express 
-    + setup repository 
+    + ~~setup project in NodeJS and Express~~ 
+    + ~~setup repository~~ 
     + Write the first simple page and display it
     + Write basic contact information/github repo 
     + Use ScrollReveal.js to do... something
