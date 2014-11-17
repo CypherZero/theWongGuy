@@ -14,6 +14,12 @@ We'll try to do something new and use NodeJS, Express, and some fancy CSS to pro
 - AngularJS
 - MongoDB 
 
+## Run 
+1. Install NodeJS
+2. Install Express 
+3. $ node app.js 
+4. view site in browser – http://localhost:3000/
+
 ## MileStones 
 1. Simple single page with contact information, publish to somewhere. 
 2. Use MongoDB to Add and manage blog posts 
